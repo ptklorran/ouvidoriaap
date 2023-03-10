@@ -1,20 +1,20 @@
 {
     "system": {
-        "name": "InfoTech+",
-        "url": "https://infotechpluscariri.com.br",
+        "name": "ZapCidadão",
+        "url": "https://zapcidadao.online",
         "color": {
             "lightTheme": {
                 "palette": {
                     "primary": "#181d22",
-                    "secondary": "#7B68EE"
+                    "secondary": "#333333"
                 },
                 "toolbar": {
-                    "background": "linear-gradient(to right, #181d22, #7B68EE)"
+                    "background": "linear-gradient(to right, #009900, #006600)"
                 },
-                "menuItens": "#DCDCDC",
-                "sub": "#DCDCDC",
-                "toolbarIcon": "#DCDCDC",
-                "divide": "#E0E0E0"
+                "menuItens": "#ffffff",
+                "sub": "#ffffff",
+                "toolbarIcon": "#ffffff",
+                "divide": "#DCDCDC"
             },
             "darkTheme": {
                 "palette": {
