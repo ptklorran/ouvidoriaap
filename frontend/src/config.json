@@ -1,0 +1,42 @@
+{
+    "system": {
+        "name": "ZapCidadão",
+        "url": "https://zapcidadao.online",
+        "color": {
+            "lightTheme": {
+                "palette": {
+                    "primary": "#181d22",
+                    "secondary": "#333333"
+                },
+                "toolbar": {
+                    "background": "linear-gradient(to right, #009900, #006600)"
+                },
+                "menuItens": "#ffffff",
+                "sub": "#ffffff",
+                "toolbarIcon": "#ffffff",
+                "divide": "#DCDCDC"
+            },
+            "darkTheme": {
+                "palette": {
+                    "primary": "#181d22",
+                    "secondary": "#7B68EE",
+                    "background": {
+                        "default": "#080d14",
+                        "paper": "#181d22"
+                    },
+                    "text": {
+                        "primary": "#4169E1",
+                        "secondary": "#DCDCDC"
+                    }
+                },
+                "toolbar": {
+                    "background": "linear-gradient(to right, #4169E1, #7B68EE)"
+                },
+                "menuItens": "#181d22",
+                "sub": "#181d22",
+                "toolbarIcon": "#181d22",
+                "divide": "#080d14"
+            }
+        }
+    }
+}
